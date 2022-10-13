@@ -1,1 +1,6 @@
+1. Read all colar images and converted to gray-scale images
+2. Randomly split images into trainging set / test set. 35 as training, the rest as testing
+3. Find NN for each test image
+4. Caculate the accuracy for NN method
+image source: https://drive.google.com/drive/folders/1YyDN-x2P34TbPpWZORuYNx7jTA0q_-ic?usp=sharing
 
